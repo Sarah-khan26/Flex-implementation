@@ -1,0 +1,6 @@
+.flex-container{
+    padding: 10px;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}

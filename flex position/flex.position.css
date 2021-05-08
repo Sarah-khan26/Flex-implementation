@@ -1,0 +1,13 @@
+.flex-container{
+    padding: 10px;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex-container > div{
+    width: 400px;
+    margin: 10px;
+    background-color: aqua;
+}
